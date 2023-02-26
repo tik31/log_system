@@ -1,0 +1,3 @@
+[submodule "src/db_logger"]
+	path = src/db_logger
+	url = git@github.com:tik31/db_logger.git
